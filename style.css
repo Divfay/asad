@@ -1,0 +1,47 @@
+body{
+	background-color: white; 
+}
+
+
+.link {
+	font-size: 1.25rem;
+	color: black;
+	margin-top: 1%;
+	margin-left: 4%;
+}
+
+.hr_header{
+	margin: 1rem 0;
+	color: inherit;
+	background-color: currentColor;
+	opacity: .25;
+}
+
+.hr_header, ::after, ::before {
+    box-sizing: border-box;
+}
+
+.htwo{
+	font-size: 2rem;
+	margin-left: 45%;
+	margin-bottom: 25px;
+}
+
+
+.image{
+	margin-left: 45%;
+}
+
+
+.item{
+	margin: 15px;
+	color: black;
+}
+
+.test{
+	colot:black;
+}
+
+.container{
+	display: flex;
+}
